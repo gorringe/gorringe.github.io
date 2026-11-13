@@ -1,0 +1,28 @@
+---
+title: "Physics beginnings"
+author: "Tim Gorringe"
+date: "2023-05-11"
+description: "Aristotle, the first physics writings, and the beginnings of scientific thinking."
+categories: ["History of physics", "Aristotle"]
+format: html
+---
+
+Imagine Athens, 300 BC. A city of hot summers, olive groves and the home of the planet’s most advanced, most progressive civilization. A society of merchants and traders, priests and politicians, and jewelers and tailors. People who valued architecture, paintings and sculpture. Athens was the pinnacle of our progress into community and culture.
+
+The ancient Greeks were believers in Gods and Goddesses. They believed that the fortunes and the misfortunes of their lives were under the control of the Gods. Famines and floods were punishments unleashed by angry Gods. Marriage and childbirth were rewards offered by joyful Gods. From Zeus for thunder and lightning to Aphrodite for love and fertility, the Ancient Greeks had hundreds of Gods. They built great temples for their gods, offered extravagant gifts to their gods, and lived lives guided by customs, rituals and superstition.
+
+But within the walls of Athens an idea sprang up. The idea was acts of nature weren’t caused by the actions of the Gods. The idea was that acts of nature were consequences of rational, reproducible laws. Moreover, these laws of nature are discoverable by people using reasoning and observation. The architect of this new ’scientific thinking was the Greek philosopher Aristotle.
+
+We are fortunate that a collection of Aristotle’s, 2500-year-old writings on nature was preserved. His writings were handed-down through the scribes of the dark ages and the scholars of the Islamic Golden Age, to become the roots of the scientific explosion of the 16th and 17th century Enlightenment. It’s arguable, without Aristotle, we’d have no Galileo or Newton.
+
+This first physics writings, by the first physicist Aristotle, are chapters in Corpus Aristotelicum. They’re believed to be a collection of Aristotle’s lecture notes on various natural phenomena. Within these notes he cataloged a series of answers to some basic questions about the natural world. What are the building blocks of the celestial world? What are the building blocks of the terrestrial world? Why do things move the way they do and why do things change the way they do? His use of observation and reasoning to answer such questions was ground-breaking and became a foundation of science.
+
+Aristotle got wrong the answers to the majority of the questions that he asked. He thought the earth was the center of the universe with the moon, planets, sun and stars all revolving around Earth. He thought the building blocks of terrestrial things were earth, air, water and fire. He thought that objects made of air and / or fire will ‘naturally’ rise and objects made of water and / or earth will ‘naturally’ fall. He thought that forces are needed to change these ‘natural’ motions of terrestrial objects.
+
+Despite the wrong answers his contribution to scientific progress were immense. And actually, even today, we’re still working on Aristotle’s questions. General physics is the intellectual journey from Aristotle’s conception of scientific thinking to our modern, unified understanding of the natural universe.
+
+Imagine a world in which some unknown scribe in some unknown monastery didn’t make a copy of Aristotle’s writings. A world in which Galileo wasn’t able to stand on Aristotle’s shoulders, a world in which Newton wasn’t able to stand on Galileo’s shoulders, and so on. A world without the comforts and the conveniences on our advanced, technological lifestyles and one in which our daily activities were devoted to meeting our needs for food, shelter and safety. That’s a world without science.
+
+---
+
+Originally published on [Blogger](https://timdotgorringe.blogspot.com/2023/05/first-physics-book.html) on May 11, 2023.
