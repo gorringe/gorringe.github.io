@@ -1,0 +1,8 @@
+---
+title: "About"
+---
+
+Physics notes by Tim Gorringe.
+
+You can also find my writing on [the original Blogger blog](https://timdotgorringe.blogspot.com/).
+

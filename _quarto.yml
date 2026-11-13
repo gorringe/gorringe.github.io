@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - about.qmd
+    - posts/**/*.qmd
+
+website:
+  title: "Tim Gorringe"
+  site-url: https://gorringe.github.io
+  navbar:
+    left:
+      - href: index.qmd
+        text: Posts
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/gorringe
+  page-footer:
+    left: "© Tim Gorringe"
+    right: "Built with [Quarto](https://quarto.org)."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
