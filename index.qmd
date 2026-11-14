@@ -1,5 +1,5 @@
 ---
-title: "Physics notes"
+title: "Physics"
 listing:
   contents: posts
   sort: "date desc"
