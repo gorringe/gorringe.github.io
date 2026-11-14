@@ -1,0 +1,249 @@
+---
+title: "Physics problems"
+author: "Tim Gorringe"
+date: "2023-05-11"
+categories: ["Physics"]
+format: html
+---
+
+> Migration note: Some equations are missing from the Blogger source. Their
+> original positions are marked below.
+
+How did you learn to ride a bike? You may have watched a sibling or friend on
+their bikes. You may have gotten advice from Mom and Dad. But family and friends
+can't really explain the remarkable mental and physical gymnastics of riding a
+bike. No book or video can truly describe it.
+
+Of course, you know you learnt to bike ride by trying to bike ride. It's a
+process of making mistakes, falling off a lot, correcting mistakes, and falling
+off much less. It's accomplished by lots of practice. By repeating and refining
+your moves you gradually rewire your brain to perform the task of bike riding.
+And sooner or later you're riding a bike without conscious thought.
+
+This type of learning is called experiential learning, i.e., learning by
+experiencing. What you learnt by watching your friend when bike riding or
+listening to advice on bike riding is called observational learning, i.e.,
+learning by observing, listening, reading, etc. Experiential learning is more
+personal. You're more engaged and you're more invested.
+
+Developing skills in physics problem solving is similar to learning to ride a
+bike. It's best developed by trying to solve problems. Of course, some advice on
+problem solving, like advice on bike riding, is also helpful. So here I'll try
+to describe my process and steps in solving a problem.
+
+To make the description of problem solving more concrete let's consider a
+specific example of a problem from our textbook. As I read the problem I try to
+build an image in my mind of the situation.
+
+"A magician astonishes his applauding audience with two gravity-defying balls
+that hang from strings at non-vertical angles (the audience is unaware the two
+balls are electrically charged).
+
+*[Original illustration (Canvas login
+required)](https://uk.instructure.com/courses/2052198/files/104696697/preview)*
+
+In the trick the two small, 0.04 g balls were suspended by two light, 34.0 cm
+long strings from a common point. Given the balls had come to rest with each
+string at an angle 7.3o to the vertical, find the magnitude of the charge on
+each ball. Assume the balls have equal charge."
+
+Firstly, my mental image is restricted to the things that are relevant to the
+problem. The balls, strings and the geometry of their arrangement. Omitted are
+the things that are superfluous to the problem. The magician, audience and the
+applause and the trickery. I'm conscious of what quantities I'm told (masses,
+lengths, angles) and what quantities I need to find (charges).
+
+Importantly, my mental image is framed by a recognition of the context of the
+problem. In this problem the balls are hanging at rest and therefore the sum of
+the forces on each ball must be zero. The problem is therefore about the
+equilibrium between the electrical, gravitational and tension forces that are
+acting on each ball. This understanding is the heart of the solution to the
+problem.
+
+[Original illustration (Canvas login
+required)](https://uk.instructure.com/courses/2052198/files/104696800/preview)
+
+Finally, my mental image is abstracted. The small metallic balls became point
+mass balls. The light strings become un-stretchable massless strings. The point
+mass ball and un-stretchable massless string aren't real-life balls or real-life
+strings. Rather they're invaluable approximations for physics reasoning.
+
+Of course the challenge for me is explaining to you just how I knew what's
+important and what's not, how I knew the problem is one of equilibrium of
+forces, and how I knew to abstract the ball, string, etc. I believe this arises
+from experience with solving many problems. By solving problems we teach
+ourselves the concepts and priciples of physics and learn to recognize the
+connections between problems. With practice this understanding becomes
+habituated and unconscious. Like riding a bike.
+
+If you're stuck with how to proceed ask yourself some questions. Is the problem
+about calculating a force, an energy, a field, a potential, etc? Does the
+problem give values of charges, currents, wavelength, frequencies, etc? What
+you're told about and what you're asked about are the clues to the foundations
+of the problem.
+
+The next step in problem solving is sketching with pencil and paper your mental
+image. Your sketch will incorporate both the relevant objects like balls,
+strings, etc., and the relevant concepts like equilibrium, forces, etc. There's
+something about making the sketch that helps to crystallize and clarify your
+reasoning. It obliges the resolution of all the umm's and ahh's about what's
+happening.
+
+In sketching our problem I'd denote the mass m and charge q of the ball and I'd
+denote the length L and angle theta of the string. I'd also sketch the three
+forces - gravity, electricity and tension - that are act of the balls. I'd be
+careful in sketching the directions of forces: the gravity attraction is
+downwards towards the earth's center, the electrical repulsion is horizontal
+between the two charged balls, and tension acts along each string's length.
+
+After making the sketch I re-read the problem. One reason is double-checking my
+initial interpretation of the physics problem. I sometimes discover I've
+misunderstood something. I sometimes discover I've missed something.
+
+Another reason to re-read the problem is to annotate your sketch with the given
+values of the physical quantities. Sometimes we're directly told the mass of the
+small metallic ball is 0.04 g or the length of the light string is 34.0 cm.
+Sometimes these values are coded in statements like "a body at rest", "on a
+smooth surface", etc. Sometimes you'll want to note a constant of nature that's
+relevant, e.g., the acceleration of gravity, g, the speed of light, c.
+
+The acts of drawing and annotating are a foundations for your solution to the
+problem. They require a definiteness and preciseness in your description of the
+physics problem and the underlying principles. It's akin to describing the
+problem in your own words. It's analogous to digging a hole and pouring the
+concrete for the construction of a house. Both solutions and houses may collapse
+without sturdy foundations.
+
+Almost certainly your conceptualization of the problem may be written as an
+equation. In our example, conceiving a problem as based on equilibrium implies
+the sum of forces is zero, \[equation missing in original\] ( a very basic
+equation). As another example, conceiving a problem as based on energy
+conservation implies the initial and final energies are equal, \[equation
+missing in original\] (a very basic equation). Such equations are the core of
+our solution of the problem - a foot-in-the-door in solving the problem.
+
+All the hundreds of physics problems in physics textbooks involving
+translational equilibrium have the common core of \[equation missing in
+original\]. And all the hundreds of physics problems in physics textbooks
+involving energy conservation have the common core of \[equation missing in
+original\]. It's in this sense we say that physics describes a vast array of
+natural phenomena through a small number of basic ideas and corresponding
+equations.
+
+Think about your grandma. When I think of mine my thoughts will wander to
+related things. The short walk to her house, the cookies she made, the rabbits
+she kept, and so on. These are things that I associate with my
+grandma.\[equation missing in original\]
+
+[Original illustration (Canvas login
+required)](https://uk.instructure.com/courses/2052198/files/104696847/preview)
+
+The next stage in problem solving involves expanding the core equation with
+problem specifics through association. My thoughts wander from equilibrium to
+gravity, electricity, tension, and then to forces being vectors, and then to how
+gravity works, and then to how electricity works, and so on. These are things
+I'm associating with the grandma.
+
+In expanding the equation \[equation missing in original\] I'd write down the
+individual gravitational, electrical and tension forces that sum to zero. I'd
+utilize my understanding of geometry, trigonometry and vectors to express the
+equilibrium of forces in the horizontal direction and the vertical directions.
+And I'd also expand each force using equations that represent my understanding
+of how they work, i.e., \[equation missing in original\], \[equation missing in
+original\]/r2.
+
+By the tailoring of the core equation(s) to our particular problem we're
+constructing the relationship between the quantities we're told (the knowns m,
+L, \[equation missing in original\]) and the quantities we want (the unknown q).
+At this stage the physics-focused problem has morphed into a algebra-centered
+problem of solving equations for unknown variables, i.e., algebra.
+
+Algebra is the manipulation of symbols rather than manipulation of numbers. (We
+owe our thanks for the birth of the discipline to the Islamic Golden Age, the
+"House of Wisdom", and famous book "Al-Jabr".) I think of algebra as like
+balance weighing scales. If you add or subtract an equal weight from both sides
+of the weigh scales it remains in balance. If you multiply or divide the weights
+on both sides of the weighing scales it remains in balance. The same with
+equations and adding, subtracting, multiplying, dividing on both sides of the
+equal sign. You've got to keep the equation balanced to successfully find the
+unknown quantity.
+
+In some cases a problem's solution involves one concept, one equation and rather
+straightforward algebra of rearranging the equation to find the unknown. In
+other cases a problem's solution involves multiple concepts, multiple equations
+and more complicated algebra involving ordering, combining and rearranging the
+equations to find the unknown(s).
+
+In our example, I used the equation (1), describing equilibrium in the vertical
+direction, to replace the tension in equation (2), describing equilibrium in the
+horizontal direction, in terms of known quantities (m, g and \[equation missing
+in original\]). This yields a 'blended' equation that can be rearranged to find
+the unknown charge, q.
+
+[Original illustration (Canvas login
+required)](https://uk.instructure.com/courses/2052198/files/104696860/preview)
+
+One piece of advice. It's almost always best to leave the substitution of
+numbers into equations to the end of the problem. In working with equations it's
+easier to follow the steps when physical quantities are represented by symbols
+not numbers. We all make mistakes and its easier to find the mistake with
+symbols than numbers as a symbol is a reminder to its meaning while a number is
+a poker-face to its meaning. You'll save a lot of hair-pulling by working with
+symbols.
+
+Another piece of advice. My first attempt at solving a problem - from underlying
+concepts and core equations to specific details and finding unknowns - sometimes
+succeeds and sometimes fails. It's common to have to explore a number of dead
+ends before finding the correct path to solving a problem. This is normal for
+everyone. Whether it's doing your homework or running a marathon you'll need
+some persistence.
+
+Once you've obtained a solution it's important to check it. Does the magnitude
+make sense? Does of the sign / direction make sense? If you're asked to
+calculate the mass of a elephant and you obtain 2.5 grams you know you've made a
+mistake somewhere. If you're asked to calculate the height of a skyscraper and
+you obtain 2.5 centimeters you also know you've made a mistake somewhere. In our
+example the a charge of 6.4 nano-Coulombs is typical of charging by rubbing.
+Charges of Coulomb's, kilo-Coulombs, or mega-Coulombs would be ridiculously
+large.
+
+You can also check your equations are sensible. In our example we found that
+\[equation missing in original\] . The equation 'tells us' that the larger the
+mass of the balls the larger the charge of the balls. This makes sense as a
+greater electrical force must accompany a greater gravitational force in order
+to maintain the equilibrium of forces. You might also check the dimensions. On
+the righthand side we've r \[L\], m \[M\], g \[L/T2\], k\[ML3/T2Q2\], \[equation
+missing in original\]\[-\] where \[L\], \[T\], \[M\], \[Q\] are the fundamental
+dimensions of space, time, mass and charge, respectively. That sounds like
+dimensional-spaghetti but actually the righthand side dimension simplify to
+\[Q\] the dimension of q.
+
+Often there's different ways to solve a given problem. In our example, after
+writing down the equations describing equilibrium in the horizontal / vertical
+directions, I could have computed the gravitational force on the ball via FG =
+mg, the tension force on the ball via T = FG / cos \[equation missing in
+original\], and then the electric force on the ball FE = T sin\[equation missing
+in original\] (the latter two equations follow from horizontal / vertical
+equilibrium). Then I could solve for q using Coulomb's law FE = k q2/r2 as FE,
+q, r are all known. This approach is like taking a series of small steps to the
+answer rather than one big leap to the answer. It has the advantage of simpler
+algebra in each step but the disadvantage that the relation between the unknown
+charge q and the known variables m, L, \[equation missing in original\], etc.,
+gets lost.
+
+Finally, a general remark on problem solving. As human beings we build mental
+models of the surrounding world. Our models incorporate our perceptions and
+interpretations of things from how nature works to how people behave. We all
+come to class with individualized models and some of our physics conceptions are
+correct and some of our physics conceptions are incorrect.
+
+A problem that's simple to solve isn't really a problem. We learn by struggling
+and persevering to solve a problem. Struggling is when we confront and correct
+our misconceptions and misunderstanding. That's why the experiential learning of
+problem solving is so valuable - both in physics class and in everyday life.
+
+---
+
+Originally published on
+[Blogger](https://timdotgorringe.blogspot.com/2023/05/how-did-you-learn-to-ride-bike-you-may.html)
+on 2023-05-11.

@@ -1,0 +1,115 @@
+---
+title: "Ethereal mediator"
+author: "Tim Gorringe"
+date: "2023-05-10"
+categories: ["Physics"]
+format: html
+---
+
+Newton's law of gravity and Coulomb's law of electricity leave an obvious
+question unanswered. "How do two masses or two charges that are spatially
+separated exert forces on one another?" This puzzle is called
+action-at-a-distance and maybe is particularly unsettling when you remember that
+pushing or pulling an object involves touching the object. By what mechanism
+does one charge influence another charge or one mass influence another mass
+through empty space?
+
+The action-at-a-distance puzzle was solved by Michael Faraday. Faraday was
+influential, nineteenth century, English scientist with transformational
+contributions in physics and chemistry. In particular he introduced the notion
+of fields into science. It's an electric field that conveys the electric force
+between two charges across empty space between and it's a gravitational field
+that conveys the gravitational force between two masses across empty space.
+Specifically, the electric force acting on a charge arises from its immersion in
+the electric fields of other charges. And the gravitational force acting on a
+mass arises from its immersion in the gravitational fields of other masses.
+
+The electric field is a physical, immaterial, continuous medium that surrounds
+every charge and fills all space. By physical, I mean it's a real entity, and by
+immaterial, I mean it's not a material substance. And by continuous, I mean it's
+smoothly varying across space.
+
+Importantly, the electric field is a vector field with a magnitude and a
+direction. The field exists at every point in the universe and associated with
+each point in space is a vector **E**(r). At some level - through the fabric of
+the field - every charge in the universe interacts with every other charge in
+the universe.
+
+The electric field E of a point charge q is given by E = kq/r^2^ (where r is the
+distance from the field-point to the charge). For a positive charge the field
+direction is radially outwards. For a negative charge the field direction is
+radially inwards. Note, as the magnitude of the field falls-off with the
+inverse-square distance, the field is much stronger near to the charge, and much
+weaker far from the charge. And note, as the magnitude of the field is in
+proportion to the magnitude of the charge, a large charge supports a
+correspondingly large field, and a small charge supports a correspondingly small
+field. Every charged particle (electron, proton, etc.) in the universe is a
+source of an electric field.
+
+The electric force F on a point charge q is given by F = q E (where E is the
+field at the location of the charge). According to F = q E a large charge q
+feels a larger force and a small charge q feels a smaller force in the same
+electric field E. Note that if the charge is positive the force is in the same
+direction as the field, whereas, if the charge is negative the force is in the
+opposite direction to the electric field.
+
+By combining the point charge field E = kq/r^2^ and field equation F = q E we
+can evaluate the resulting force between two point charges q~1~, q~2~ with
+separation r. The force F~1-\>2~ on q~2~ due to q~1~ is a result of the field
+E~1~ of the charge q~1~ at the location of the charge q~2~. The argument gives
+F~1-\>2~ = q~2~ E~1~ = k q~1~ q~2~ / r^2^ and reproduces Coulomb's law.
+Likewise, the force F~2-\>1~ on q~1~ due to q~2~ is a result of the field E~2~
+of the q~2~ at the location of the charge q~1~. The argument gives F~2-\>1~ =
+q~1~ E~2~ = k q~1~ q~2~ / r^2^ and again reproduces Coulomb's law. Furthermore,
+the combination of the radially inwards / outwards fields of negative / positive
+charges, and the relative directions of the fields / forces in the field
+equation, yields the experimental fact that like-charges repel and
+unlike-charges attract.
+
+You might be unsettled by the following issue. Charge q~1~ experiences the field
+of charge q~2~ but doesn't experience its own field. And charge q~2~ experiences
+the field of charge q~1~ but doesn't experience its own field. Why are charges
+blind to their 'self-field' or 'self-interaction'?
+
+One answer I'll offer is point-charge electric fields are spherically symmetric.
+A point charge field doesn't discriminate up from down, left from right, and so
+on. The point-charge field is identical or indistinguishable in every
+orientation. Therefore, a self-force from a self-interaction couldn't act
+upwards or downwards down or any other direction. (Maybe a self-force could act
+to explode a point charge but exploding a single point isn't really intelligible
+either).
+
+A fuller answer is found by considering the quantum electric fields and
+sub-atomic particles, e.g., electrons, protons. An electron does self-interact
+with its own electric field. And a proton does self-interact with its own
+electric field. When we measure the properties of sub-atomic particles there
+properties often incorporate this self-interaction (a very famous example of its
+self-interaction is the electron's magnetism).
+
+The concept of fields as mediators of forces was a monumental breakthrough in
+science and is the framework or the template for the working of all the forces
+of nature. From this mechanism, the superposition of electric forces arising
+from individual charges is seen to emerge from the superposition of electric
+fields arising from individual charges.
+
+To help us visualize these fields we'll detour this physics class into an art
+class and learn to draw the electric fields of charge distributions. Through the
+use of lines of field we'll denote strong fields by tightly-packed lines, weak
+fields by loosely-packed field lines, and the direction of the field by the
+direction of the lines. These sketches of field lines of charge distributions
+offer an intuitive, visceral sense of the otherwise abstract, electric fields
+(and show there's art in science).
+
+An electric dipole is an assembly of equal-sized, opposite-signed charges q with
+separation d. The H~2~O mole is a famous example of an electric dipole - its
+positive-end being the hydrogen ions and its negative-end being the oxygen ion.
+The fact the H~2~O molecules are dipoles is why H~2~O is a liquid at room
+temperatures, a solvent of hydrophilic ("water-loving") molecules, and 60% of
+human bodies. Using the superposition principle we'll both calculate and sketch
+the electric field surround the water molecule and other electric dipoles.
+
+---
+
+Originally published on
+[Blogger](https://timdotgorringe.blogspot.com/2023/05/ethereal-mediator.html)
+on 2023-05-10.

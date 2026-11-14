@@ -1,0 +1,165 @@
+---
+title: "What is energy?"
+author: "Tim Gorringe"
+date: "2023-05-09"
+categories: ["Physics"]
+format: html
+---
+
+In physics an interaction is the action or the influence of one body on another
+body. When one billiard ball strikes another billiard ball and their velocities
+change, that's an interaction. When cold water's poured in a hot glass and their
+temperatures change, that's an interaction. The gravitational force is a
+long-range, mutual interaction between masses. The electromagnetic force is a
+long-range, mutual interaction between charges.
+
+We can understand many interactions, e.g., collision of billiard balls, by
+considering the forces that are exerted and the resulting changes in their
+velocities. Through our sense of touch we have a human connection to force. The
+notion of forces as pushes and pulls seems real and concrete.
+
+We can't, however, understand the changing temperatures of the cold water in the
+hot glass by means of forces. Although the changing temperatures are actually
+caused by individual collisions of water / glass molecules, the calculation of
+how these forces lead to thermal equilibrium is impossible. However, with energy
+it's easy to figure the final temperature of the water and the glass.
+
+The notion of energy is undoubtedly more abstract and subtle than force. The
+human feelings of fatigue (low energy) and vitality (high energy) are
+psychological experiences that are only loosely related to energy's physical
+meaning. So what's this mysterious stuff we call energy?
+
+Hidden beneath the realm of forces and motion are a book keeper and a balance
+sheet. Nature's book keeper insures a fundamental quantity in nature's balance
+sheet is never changed. The quantity is the energy in the universe. And it
+hasn't changed over the 14 billion years since the big bang.
+
+The universe's energy is \`held' in different forms. There's energy associated
+with motion that's called kinetic energy. There's energy associated with
+gravitational and electrical interactions that's called gravitational and
+electrical potential energy. Other classifications of energy include thermal,
+chemical and nuclear.
+
+On the grandest scales, galaxies are the owners of the universe's energy through
+the motion and the interactions of their parts. Galaxies are giant energy
+repositories. On the tiniest scales, subatomic particles are the owners of the
+universe's energy their individual motion and their individual interactions.
+Think of galaxies as giant energy repositories and subatomic particles are tiny
+energy corpuscles.
+
+Although energy is conserved its forms and owners are continually evolving. This
+unrest is caused by the interactions between the bodies in the universe. When
+forces act they 'do work' which means they transferring energy from one form to
+another and / or one owner to another. From the energy perspective the universe
+resembles a simmering cauldron of never created, never destroyed, always
+churning, energy. We've discovered that within the depths of forces and motion
+there's a secluded world of energy.
+
+I want to stress that energy isn't a substance or a material. Energy is a
+mathematical quantity. I also want to stress that energy conservation isn't a
+mystical commandment. Energy conservation is a mathematical result.
+
+Energy is useful because scientists have uncovered the equations for kinetic,
+gravitational, electrical energy. If you sum the energy in all forms for all
+bodies it never changes. If you drop a ball from you hand to the floor there's a
+decrease in gravitational energy and an increase in kinetic energy. But their
+sum is not changed. As planets orbit in elliptical paths around the sun the
+kinetic energy is constantly changing and the gravitational energy is constantly
+changing. But their sum is not changed.
+
+You might be intrigued why energy is conserved. During the 1700-1800's the
+notion that energy is conserved just gradually emerged empirically as different
+forms of energy were identified. However, in 1908 the mathematician Emmy Noether
+was able to show that conservation of energy arises because the laws of nature
+don't change with time. For example, if gravity changed its strength from day to
+day then energy isn't conserved. And likewise, if electromagnetism changed its
+strength from day to day then energy isn't conserved. So conservation of energy
+is actually the echo of a 'natural symmetry' that physical law's don't change
+with time.
+
+In physics we implement the notion of energy using potentials. For example, the
+gravitational interaction has an associated gravitational potential, and the
+electrical interaction has an associated electrical potential. They're potential
+are helpful tools for handling the energy transfer when bodies interact with
+each other.
+
+The electrical energy PE of a charge q in an electric potential V is given by PE
+= q V. Note the resemblance with the electrical force F on a charge in an
+electric field E being given by **F** = q **E.** Indeed, like force and energy
+are alternative perspective in discussing electrical interactions, the field and
+potential are alternative mechanisms for understanding electrical interactions.
+
+As an analogy to E and V picture a contour map of your hometown where contours
+represent different elevations, e.g. 900, 1000, 1100 feet. Next imagine adding
+arrows to indicate the slope of the terrain at some locations, e.g., your home,
+your school. The arrows are the hometown analogy of the electric field and the
+contours are the hometown analogy of the electric potential of a charge
+arrangement. Positive charges are tops of electric potential mountains, negative
+charges are bottoms of electric potential wells, and electric fields are the
+downwards slopes of the electric potential landscape. Electrical potentials are
+measured in units of Volts.
+
+An important feature of electric potentials and electrical energies is only
+electrical potential differences and electrical energy differences are
+physically significant. This means that adding everywhere 1.0 Volts to the
+electrical potential of a charge distribution has no observable effect. This
+means that adding everywhere 1.0 Joules to the electrical energy of a charge
+distribution has no observable effect. The actual value of the electric
+potential, or the actual value of the electrical energy, is not a measurable,
+only differences in potentials or energies are measurable. This is why a
+voltmeter has two terminals - it measures differences in electrical potentials
+between two points.
+
+So what's it mean to say the electric potential at a distance r from a point
+charge q has a value kq/r? It means the potential at distance r from the charge,
+and the potential at infinite distance from the charge, are different by kq/r.
+It means we've chosen a potential of 0.0 Volts at infinity as our reference for
+the electric potential at a distance r from the charge q. In other cases - for
+example the electric potential in the region of two oppositely charged plates -
+we generally will choice one of the plates to be 0.0 Volts.
+
+Assembling charge distributions involves doing work and storing / harvesting
+energy. Imagine assembling an arrangement of two like charges. Because like
+charges repel, you'll have to push them together and they'll want to fly apart.
+In assembling this arrangement, the electric force will do negative work and the
+charge arrangement will store positive electrical energy. You'll do positive
+work pushing the charges together. Now imagine assembling an arrangement of two
+unlike charges. Because like charges attract, they'll want to fly together and
+you'll have to pull them apart. In assembling this arrangement, the electric
+force will do positive work and the charge arrangement will store negative
+electrical energy. You'll do positive work pulling the charges apart.
+
+The perspective of energy offers an alternative explanation of the stability of
+a salt crystal through its binding energy. Consider the aforementioned NaCl
+nano-crystal of two positive Na ions and two negative Cl ions. Each ion resides
+in the potential of the three remaining ions. Since the unlike charge are closer
+and like charge is farther the potential is negative for the positive ions and
+positive for the negative ions. Consequently, the electrical energy is negative
+for both a Na ion and a Cl ion (i.e., either the charge is positive and
+potential is negative or vice versa). The negative electrical energy of each ion
+means that removing an ion requires energy.
+
+The calculation isn't so easy for a crystal containing many atoms. You have to
+count the number and figure the separation of nearest neighbors, next-nearest,
+next-next-nearest neighbors, etc. That's tricky in 3-dimensions. A problem
+that's easier is the binding energy on a ion in a one dimensional NaCl crystal.
+There are two nearest neighbors at a distance a, two next-nearest neighbors at a
+distance 2a, two next-next-nearest neighbors at a distance 3a, etc. Since the
+numbers of nth-nearest neighbors is always while the distance of the nth-nearest
+neighbors is na, the calculation thus involves a mathematical series
+1/1-1/2+1/3-1/4+ ... This a famous series with a sum that is 2 ln 2. Thus the
+binding energy is therefore. It's a nice illustration of teamwork between
+mathematics and physics.
+
+The understanding that assembling, disassembling and rearranging charges
+involves storing / releasing energy is actually a prototype for energy flow in
+living things. Foods - carbohydrates, proteins, fats - are rich in
+carbon-hydrogen and carbon-oxygen bonds that store electrical energy in electric
+charge distributions. We harvest this energy to run our bodies and sustain our
+lives.
+
+---
+
+Originally published on
+[Blogger](https://timdotgorringe.blogspot.com/2023/05/pools-of-energy.html)
+on 2023-05-09.

@@ -22,6 +22,14 @@ website:
         contents:
           - href: posts/first-physics-book/index.qmd
             text: Physics beginnings
+          - posts/physics-problems/index.qmd
+          - posts/new-dimension/index.qmd
+          - posts/monster-force/index.qmd
+          - posts/ethereal-mediator/index.qmd
+          - posts/beginnings-endings/index.qmd
+          - posts/what-is-energy/index.qmd
+          - posts/jars-of-charge/index.qmd
+          - posts/batteries-and-resistors/index.qmd
       - section: "Fiction"
         contents: []
       - about.qmd

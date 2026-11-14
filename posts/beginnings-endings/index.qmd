@@ -1,0 +1,99 @@
+---
+title: "Beginnings & endings"
+author: "Tim Gorringe"
+date: "2023-05-10"
+categories: ["Physics"]
+format: html
+---
+
+In physics we've different ways of conceptualizing how things works. This is
+helpful to physicists both in solving physics problems and in deepening physics
+understanding. It's similar to psychology in which there's different ways of
+conceptualizing how humans act. This is helpful to psychologists both in solving
+human problems and in deepening human understanding.
+
+For electricity, we'll discover that supplementing the concept of fields with
+notions of flux is akin to adding a few wrenches to the screwdrivers in your
+toolbox. It make some jobs easier, shorter, and much less frustrating.
+
+Visualize a washbasin. And imagine a stream of water from the faucet, across the
+floor of the basin, into the drain. Below I've sketched the stream of water
+using 'stream lines'. The line directions indicate the direction of flow. Water
+streams from the faucet, across the basin, and into the drain. The line
+densities indicate the strength of the stream. Water gushes from the relatively
+narrow faucet outlet and gushes into the relatively narrow drain inlet. By
+comparison the water idles over the wide bottom of the wash basin between the
+faucet and the drain.
+
+There's something important you intuitively know about the flow of water from
+faucet to drain. The quantity of water that's leaving the faucet, crossing the
+basin, and entering the drain, are exactly the same. Water isn't created or
+destroyed en-route from faucet to drain. The quantity of water per unit of time
+in kilograms per second or cubic-meters per second is conserved.
+
+In our sketch the lines are drawn to emerge from the faucet and exit into the
+drain. If I count the number of lines that exit the faucet, cross the floor of
+the basin, and enter the drain, they're exactly the same. The continuous lines
+from the faucet across the basin to the drain indicate the conservation of the
+water. In the sketch we can think of the faucet as a water 'source', from which
+water enters our washbasin-world, and we can think of the drain as a water
+'sink', into which water exits out washbasin-world.
+
+The stream lines in our sketch of the water in a washbasin are very similar to
+the field lines in a sketch of the electric field of a charge arrangement.
+Positive charge act as sources (faucets) of field lines and negative charge act
+as drains (sinks) of field lines. In regions of empty space between electric
+charge the field lines are continuous, i.e., no beginnings and no ends.
+
+Of course there's nothing that is moving in electric fields that's analogous to
+the motion of running water. But still the idea of flow is applicable to both
+electric fields and running water. The electric field and running water both
+have direction at every point in space. The electric field and running water
+both have magnitude at every point in space. Both electric fields and running
+water flow - whether abstract or concrete.
+
+To quantify the notions of charges as sources and sinks of field and flow of
+fields through space we introduce a quantity called flux. Note that flux and
+field are related. Qualitatively, the density of field lines at a given point
+indicates the electric field at that point. And qualitatively, the number of
+field lines through a given surface indicates the electric flux through that
+surface.
+
+In order to quantitatively define flux let's consider a flat surface in a
+uniform field. The flux ϕ of the field through the surface is the product of the
+cross-sectional area A of the surface and the normal component E⟂ of the field,
+ϕ = E⟂A.
+
+Gauss' law states that the net electric flux through a closed surface is
+proportional to the net electric charge inside the closed surface. A closed
+surface is a particular surface with a definite inside and a definite outside.
+If you're inside a closed surface you'll have to cross the surface to be outside
+the closed surface. If you're outside a closed surface you'll have to cross it
+wall to get inside the closed surface. We write Gauss' law ϕ = q / ε~o~ where
+ε~o~'s a constant that called the electric permittivity of free space.
+
+Imagine a charged blob q and a closed backpack. If the blob is inside the
+backpack the next flux through the backpack is q / ε~o~. It doesn't matter if
+the blob is packed at the top or the bottom of the backpack the net flux through
+the backpack is always q / ε~o~. In this case every field from the charge in the
+backpack passes out of the backpack. If the blob is outside the backpack the
+next flux through the backpack is zero. It doesn't matter if the blob is close
+to or far from the backpack the net flux through the backpack is always zero. In
+this case any field line that passes into the backpack must also pass out of the
+backpack.
+
+Charlie only knows Coulomb's law whereas Chloe also knows Gauss' law. Their
+physics teacher asks Charlie and Chloe to calculate the electric field of a
+large, planar, charged slab with a charge per unit area σ \[C/m^2^\]. Chris
+worked the entire weekend on mathematically cleaving the slab into tiny pieces
+and superimposing the inverse-square Coulomb fields of all pieces. Chloe spent a
+few minutes thinking about the electric flux and reasoned the field on either
+side of the slab is σ / 2ε~o~. This way of thinking of charges as sources and
+sinks of flux is extraordinarily helpful in understanding fields of simple
+geometries such as slabs, cylinders and spheres.
+
+---
+
+Originally published on
+[Blogger](https://timdotgorringe.blogspot.com/2023/05/beginnings-and-endings.html)
+on 2023-05-10.

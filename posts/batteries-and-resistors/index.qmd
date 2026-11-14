@@ -1,0 +1,141 @@
+---
+title: "Batteries and resistors"
+author: "Tim Gorringe"
+date: "2023-05-04"
+categories: ["Physics"]
+format: html
+---
+
+> Migration note: Some equations are missing from the Blogger source. Their
+> original positions are marked below.
+
+If you buy a new car you'll want to take it for a test drive. And if you develop
+a theory of electricity you'll want to take if for test drive also. In the last
+part of the electricity module we'll apply our newly developed understanding of
+electrical interactions to electrical circuits.
+
+The story of electrical circuits began with the invention of the electrochemical
+cell by the Italian scientist Alessandro Volta. Volta's cells - consisting of
+alternating copper and zinc plates separated by paper soaked in salt water -
+were able to produce a steady current for long periods of time. This generation
+of electric currents was a monumental breakthrough for modern civilization.
+
+At school you might have built a version of Volta's battery from a lemon, penny
+(Cu) and nail (Zn). When the battery's operating, zinc is oxidized, H2 gas is
+liberated, these reactions functioning to supply electrons to the zinc and
+remove electrons from the copper. In this way these reactions 'fuel' the steady
+flow of electric charge through a circuit connected across the zinc / copper
+terminals. Battery's are marvels of chemistry and physics that harvest the
+electrical energy of molecular bonds; so take a moment to thank Volta the next
+time you use your phone.
+
+Let me offer an analogy to the electrochemical battery for supplying electric
+currents that we'll call the gravochemical battery for supplying water currents.
+The electrochemical battery supplies electrical potential energy by harvesting
+energy from chemical bonds. Likewise the gravochemical battery supplies
+gravitational potential energy by harvesting energy in chemical bonds. The
+electrochemical battery involves nature transporting ions from one terminal of
+the battery to the other terminal of the battery in order to accrue the
+electrical energy derived from chemical bonds (battery food). The gravochemical
+battery involves you transporting water from your first floor kitchen (one
+terminal of the gravochemical battery) to your second floor bedroom (other
+terminal of the gravochemical battery) to accrue the gravitational energy
+derived from chemical bonds (your food). The electrochemical battery can then do
+work by supplying the stored electrical energy through the flow of an electric
+current between the positive / negative battery terminals. And the gravochemical
+battery can do work by supplying the stored energy through the flow of a water
+current between its second / first floor terminals. Ultimately, both batteries
+do work by 'eating' the food of chemical bonds.
+
+Note in quantifying the electrochemical battery's we use the term 'electromotive
+force' (or emf, for short). Sources of emfs are devices that convert
+non-electrical energy to electrical energy and thereby do work to move charges
+in electrical circuits (that's the meaning of the \`electromotive' in the term
+emf). For example, a battery harvests chemical energy, a generator harvests
+mechanical energy, and solar cells harvest sunlight, to do work on the charges
+in the circuit. Note the word 'force' in electromotive force is rather
+misleading as the emf \[equation missing in original\] is the work done W per
+electric charge q in energizing the circuit. Although the units of emf are
+Joules per Coulomb or Volts, its important to recognize that sources of emfs are
+devices that convert other energy forms into electrical energy.
+
+In many cases when analyzing circuits we consider the battery as simply, and
+only, a source of emf. In such a 'model' the battery's terminal voltage is
+exactly the same if drawing 1.0 micro-Amp, 1.0 milli-Amp, 1.0 Amp, or 1.0
+kilo-Amps. Of course, you know this statement is ridiculous - you can't
+jump-start an eighteen wheeler with the battery from your smoke alarm. In
+reality, however, the more electric current you draw, the lower terminal voltage
+you see. This fact can be modeled as a battery consisting of a fixed emf
+\[equation missing in original\] with a series internal resistance r. For an
+Energizer AA alkaline battery the internal resistance is roughly 0.1-0.2 Ohms
+(it depends on temperature, age, etc).
+
+Close your eyes and imagine a leafy trail alongside a winding mountain stream,
+The flow of water in the stream is called a current and can be described by the
+kilograms of water per second or the number of molecules per second. The flow
+arises from the gravitational force with water flowing from higher to lower
+gravitational potential energy. Now imagine the wires connecting components of a
+electrical circuit, The flow of electrons in the wire is called a current and
+can be described by the Coulombs of charge per second or the number of electrons
+per second. The flow arises from the electric force with charge flowing from
+higher to lower electrical potential energy. We'll find it's often helpful to
+imagine the water flow in mountain streams when studying circuits of batteries,
+resistors, switches and wires.
+
+One thing that's confusing about current is the direction of the current.
+Imagine a simple circuit with a light bulb that is connected across the
+terminals of a battery. By convention the electric current is defined to flow
+from the positive battery terminal to the negative battery terminal. This
+direction is downhill in terms of potential V and the direction that a positive
+charge would travel as repelled from the positive (like) terminal and attracted
+to the negative (unlike) terminal. Of course the negative electrons are actually
+flowing the opposite. This direction is uphill in potential V and the direction
+that a negative electron would travel as repelled from the negative (like)
+terminal and attracted to the positive (unlike) terminal. This makes me wish
+that scientists had chosen to call an electron the positive charge and the
+proton the negative charge. But we - okay, Benjamin Franklin - didn't do that.
+
+In winter I bet you like your home warm and lights on. You probably also
+appreciate the dish washer doing the dishes and the washing machine doing the
+laundry. It's household electrical circuits of resistors, switches and wires
+that distribute the currents and potentials that run your home and keep you
+comfortable. And it brain electrical circuits of neurons, synapses and axons
+that fire the currents and potentials that run your brain and keep you thinking.
+
+In class we'll examine some circuits involving batteries, resistors and wires
+that distribute currents and voltages to circuit components. Imagine these
+circuits as prototypes for the circuits in your home and your brain. Don't be
+scared of circuits - you've already been building circuits and distributing
+currents / voltages when you hung the Christmas lights on your Christmas tree or
+charged your Fitbit, phone, laptop, etc., from a power strip. We'll study such
+circuits through Ohm's law and Kirchoff's laws, understanding series and
+parallel wiring, and exploring the supply, transport and dissipation of energy
+and power in circuits.
+
+Ohms law - V = IR - is a relationship between the potential V and the current I
+in a conductor. The law is not a fundamental law of nature like F = ma or p =
+mv. Ohm's isn't exact, its often very good, its sometimes far off , it
+represents an empirical description of some materials (not other materials). It
+was of practical importance and bought order to sundry measurements of currents
+and voltages through / across materials.
+
+Ohms law is 200 years old and predates any modern understanding that matter is
+made of atoms, that atoms are made of electrons and nuclei, and electrical
+conductors are certain materials with mobile electrons. It wasn't until 1900
+that some sort of microscopic explanation of Ohms law in terms of
+negatively-charged electrons flowing through positively-charged ion obstructions
+- like the metal balls of a pinball machine - was understood.
+
+A falling rain drop in the atmosphere doesn't accelerate under the gravitational
+force because it additionally experiences a drag force from falling through the
+air's atoms and consequently 'drifts' at constant velocity from cloud to earth.
+A moving electron in a conductor doesn't accelerate under the electrical force
+because it also experiences a drag force from moving through the metal's ions
+and consequently drifts at constant velocity from negative to positive battery
+terminals. This drag or resistance, R, of the metal's ions is why V = I R.
+
+---
+
+Originally published on
+[Blogger](https://timdotgorringe.blogspot.com/2023/05/if-you-buy-new-car-youll-want-to-take.html)
+on 2023-05-04.

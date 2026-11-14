@@ -1,0 +1,135 @@
+---
+title: "Monster force"
+author: "Tim Gorringe"
+date: "2023-05-10"
+categories: ["Physics"]
+format: html
+---
+
+Electrical interactions are monstrously strong. A typical elephant's mass is
+roughly one billion times a typical ant's mass. By comparison, the electrical
+attraction between an electron and a proton is 10^40^ times the gravitational
+attraction between an electron and a proton. If you're like me, you simply can't
+imagine a difference in strength between forces of scale 10^40^
+(ten-thousand-billion-billion-billion times). You'd likely think the electrical
+force would always drown the gravitational force.
+
+A very interesting difference between electrical and gravitational forces is
+that gravitational interactions are only attractive whereas electrical
+interactions can either be attractive or repulsive (like charges repel and
+unlike charges attract). Consequently, the gravitation interaction between the
+constituents of our bodies and the constituents of the earth adds-up, whereas
+the electrical interactions between the constituents of our bodies and the
+constituents of the earth cancels-out. Thus, overall, we actually notice the
+earth's pull from the factor-10^40^ weaker gravitational force rather than the
+factor-10^40^ stronger electric force. In this sense, electricity is the monster
+that is hidden under the bed, with neutral objects being chockablock full of
+electric charge and electric force.
+
+Coulomb's law is the quantitative description of the electric force F**~E~**
+between two charges q~1~, q~2~ with a separation **r**. Coulomb's law for the
+electric force between two charges echoes Newton's law for the gravitational
+force between two masses. Both laws are inverse square laws, i.e., at twice the
+separation both forces are four times weaker. Both forces are interaction
+between dimensions of nature, i.e., mass in the case of gravity and charge in
+the case of electricity. And both forces are exerted along the line joining the
+two interacting masses or two interaction charges (we call such forces central
+forces).
+
+Note the 'fact' that electrons are negatively charged and protons are positively
+charged is purely convention. We could the define the charge of electrons to be
+negative and the charge of protons to be positive and the universe would be
+unchanged. All that matters is electrons and protons have opposite charges and
+that unlike-charges attract and like-charges repel.
+
+In considering the description of the interaction between two charges, the
+vector displacement is the vector from one charge to the other charge. Since the
+interaction only 'knows' this direction the interaction can only act along this
+direction. Attraction and repulsion are the two options for a force acting along
+the line between two charges.
+
+Newton's law for the gravitational force and Coulomb's law for the electric
+force have forms so similar its tempting to imagine a common mechanism for both
+forces. But actually we'll discover that's incorrect. To understand gravity
+we'll need to expand our understanding of space and time.
+
+Coulomb was a mechanical engineer with a keen interest in electricity, a very
+serendipitous mix for his development of the torsion balance experiment. His
+torsion balance measurements - that uncovered the detailed workings of
+electrical interactions between electric charges - were an experimental
+masterpiece and a befitting culmination for the two thousand year journey from
+the first notions of mysterious attractions (600BC) to the final description of
+the electric force (1785).
+
+Torsion and tension are cousins. If you pull the opposite ends of a wire in
+opposite directions the wire resists - that's tension. If you twist the opposite
+ends of a wire in opposite directions the wire resists - that's torsion. You can
+utilize such reactions to measure an unknown force or torque by balancing the
+unknown force or torque with the tension or the torsion of a calibrated wire (by
+calibrated I mean a given stretch / twist corresponds to a known force /
+torque). One difference between the tension and the torsion of a wire is that a
+large force is typically needed to significantly stretch a wire but a small
+torque is sufficient to significantly twist a wire. Thus torsion balances are
+good for measuring tiny forces. The torsion balance was famously used by both
+Cavendish to determine the tiny gravitational interaction between two massive
+spheres and Coulomb to measure the electrical interaction between two charged
+spheres. And today they're actually used to search for new forces of nature.
+
+Like the gravitational force is the origin of the solar system, the electric
+force is the origin of the atomic system. The very different scales of the solar
+and atomic systems is a reflection of the very different strengths of the
+gravitational and electrical forces. However, the fact that gravity and
+electricity are both central, inverse-square law forces, has an common imprint
+on the orbit motion of the planets and the electrons. As humans, we're made from
+the world of the electrical force and reside in the world of the gravitational
+force.
+
+Coulomb's law only describes the problem of forces between pairs of charges. To
+solve problems of three, four or more charges we need to supplement the law with
+the superposition principle. The principle states that the net force on a
+electric charge due to neighboring charges is the vector sum of the individual
+forces of the neighboring charges, **F** = **F~1~** + **F~2~** +..... (be aware
+that forces are vectors).
+
+The superposition principle, while experimental fact, isn't entirely obvious.
+Think about human relationships; your interaction with your Mom or your friend
+is likely different when it's just the two of you from when you're among a
+group. This isn't the case for electric forces; the interaction of q~2~ with
+q~1~ is unaffected by nearby q~3~. We'll discover that superposition was
+actually a clue to the detailed mechanism of the electric interaction.
+
+As hinted, in applying the superposition of forces we'll use vector addition
+(you'll remember that vectors are quantities with magnitude and direction). In
+class we'll review the procedures for adding vectors by disassembling them into
+x,y components - metaphorically cleaving space into one-dimensional pieces where
+the complicated addition of vectors is replaced by ordinary addition of
+numbers.^3^ As an example of superposition of forces we'll consider the question
+of why matter is bound together given being assembled from equal numbers of
+positively and negatively charges that cause repulsive and attractive electric
+forces. The secret to stability is unlike charges being closer together, and
+like charges being farther apart, and therefore the attractive forces overcoming
+the repulsive forces.
+
+As an example, consider a sodium chloride nano-crystal consisting of two Na+
+ions and two Cl- ions. The ions are located at the corners of a square with
+like-ions at opposite corners (e.g., the Na ions at the top-right and the
+bottom-left and the Cl ions at the other corners). In such an arrangement all
+ions will experience a force that acts towards the crystal's center. These
+forces are the combination of the stronger attractive forces of the
+nearest-neighbors, opposite-sign ions and the weaker repulsive force of the
+opposite corner, same-sign ions. These cohesive forces will pull together the
+charged ions and thereby bind the nano-crystal (and macroscopic-sized crystals).
+
+Next time you shake salt on your boiled egg or your french fries take a look at
+a salt crystal. A typical crystal is roughly 10^18^ atoms. Within the crystal is
+a cubic lattice of positive Na ions and negative Cl ions that outshines any
+human construction. A vast, 3-dimensional 'patio' of Na / Cl building blocks.
+Now take a look at the salt shaker. It contains roughly one million
+three-dimensional 'patios' of Na / Cl building blocks. Nature is breathtaking -
+when you take the time to look.
+
+---
+
+Originally published on
+[Blogger](https://timdotgorringe.blogspot.com/2023/05/monster-force.html)
+on 2023-05-10.
