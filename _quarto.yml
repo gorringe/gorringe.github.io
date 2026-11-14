@@ -5,19 +5,28 @@ project:
     - index.qmd
     - about.qmd
     - posts/**/*.qmd
+    - physics/**/*.qmd
+    - fiction/**/*.qmd
 
 website:
   title: "Tim Gorringe"
   site-url: https://gorringe.github.io
-  navbar:
-    left:
+
+  sidebar:
+    style: docked
+    search: true
+    contents:
       - href: index.qmd
-        text: Posts
-      - href: about.qmd
-        text: About
-    right:
-      - icon: github
-        href: https://github.com/gorringe
+        text: Home
+      - section: "Physics"
+        contents:
+          - physics/index.qmd
+          - posts/first-physics-book/index.qmd
+      - section: "Fiction"
+        contents:
+          - fiction/index.qmd
+      - about.qmd
+
   page-footer:
     left: "© Tim Gorringe"
     right: "Built with [Quarto](https://quarto.org)."
@@ -26,4 +35,3 @@ format:
   html:
     theme: cosmo
     css: styles.css
-
