@@ -20,11 +20,10 @@ website:
         text: Home
       - section: "Physics"
         contents:
-          - physics/index.qmd
-          - posts/first-physics-book/index.qmd
+          - href: posts/first-physics-book/index.qmd
+            text: Physics beginnings
       - section: "Fiction"
-        contents:
-          - fiction/index.qmd
+        contents: []
       - about.qmd
 
   page-footer:
