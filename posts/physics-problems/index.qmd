@@ -39,8 +39,7 @@ build an image in my mind of the situation.
 that hang from strings at non-vertical angles (the audience is unaware the two
 balls are electrically charged).
 
-*[Original illustration (Canvas login
-required)](https://uk.instructure.com/courses/2052198/files/104696697/preview)*
+![](magician-and-audience.png){fig-alt="A magician holds two suspended balls in front of an audience."}
 
 In the trick the two small, 0.04 g balls were suspended by two light, 34.0 cm
 long strings from a common point. Given the balls had come to rest with each
@@ -60,8 +59,7 @@ equilibrium between the electrical, gravitational and tension forces that are
 acting on each ball. This understanding is the heart of the solution to the
 problem.
 
-[Original illustration (Canvas login
-required)](https://uk.instructure.com/courses/2052198/files/104696800/preview)
+![](charged-balls-force-diagram.png){fig-alt="Free-body diagram of the suspended balls showing tension, gravity, and electrostatic repulsion."}
 
 Finally, my mental image is abstracted. The small metallic balls became point
 mass balls. The light strings become un-stretchable massless strings. The point
@@ -135,8 +133,7 @@ related things. The short walk to her house, the cookies she made, the rabbits
 she kept, and so on. These are things that I associate with my
 grandma.\[equation missing in original\]
 
-[Original illustration (Canvas login
-required)](https://uk.instructure.com/courses/2052198/files/104696847/preview)
+![](force-balance-equations.png){fig-alt="Handwritten equations balance the vertical and horizontal forces on one ball."}
 
 The next stage in problem solving involves expanding the core equation with
 problem specifics through association. My thoughts wander from equilibrium to
@@ -180,8 +177,7 @@ horizontal direction, in terms of known quantities (m, g and \[equation missing
 in original\]). This yields a 'blended' equation that can be rearranged to find
 the unknown charge, q.
 
-[Original illustration (Canvas login
-required)](https://uk.instructure.com/courses/2052198/files/104696860/preview)
+![](charge-calculation.png){fig-alt="Handwritten calculation gives a charge magnitude of 6.4 nanocoulombs per ball."}
 
 One piece of advice. It's almost always best to leave the substitution of
 numbers into equations to the end of the problem. In working with equations it's
