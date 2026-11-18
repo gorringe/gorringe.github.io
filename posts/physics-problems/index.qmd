@@ -6,8 +6,6 @@ categories: ["Physics"]
 format: html
 ---
 
-> Migration note: Some equations are missing from the Blogger source. Their
-> original positions are marked below.
 
 How did you learn to ride a bike? You may have watched a sibling or friend on
 their bikes. You may have gotten advice from Mom and Dad. But family and friends
