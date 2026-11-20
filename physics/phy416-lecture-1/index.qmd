@@ -60,7 +60,7 @@ Velocity, $\boldsymbol{E}$ and $\boldsymbol{B}$ all depend on the observer's ine
 
 The course focuses a lot on EM fields. It asks the question of what are sources of EM fields and what are the interactions of EM fields. It answers the questions by specifying the sources of flux and circulation of electric and magnetic fields (Maxwell's equations).
 
-![Flux is illustrated by a field arrow piercing a surface. Circulation is illustrated by a field arrow following a closed loop.](phy416lec1_summary_figures/flux-circulation.png){width=300px}
+![](phy416lec1_summary_figures/flux-circulation.png){width=300px fig-alt="Flux is illustrated by a field arrow piercing a surface. Circulation is illustrated by a field arrow following a closed loop."}
 
 Qualitatively, Maxwell's four equations state
 
@@ -111,7 +111,7 @@ $$
 \boldsymbol{A}\cdot\boldsymbol{A}=A^2.
 $$
 
-![Vectors A and B share a tail. A dashed line projects A onto B, and the angle between them is theta.](phy416lec1_summary_figures/dot-product.png){width=300px}
+![](phy416lec1_summary_figures/dot-product.png){width=300px fig-alt="Vectors A and B share a tail. A dashed line projects A onto B, and the angle between them is theta."}
 
 The rectangular coordinate unit vector dot products are
 
@@ -149,7 +149,7 @@ $$
 \qquad \boldsymbol{A}\times\boldsymbol{A}=0.
 $$
 
-![Vectors A and B span a shaded parallelogram. The cross-product vector is drawn perpendicular to its plane.](phy416lec1_summary_figures/cross-product.png){width=300px}
+![](phy416lec1_summary_figures/cross-product.png){width=300px fig-alt="Vectors A and B span a shaded parallelogram. The cross-product vector is drawn perpendicular to its plane."}
 
 The rectangular coordinate unit vector cross products are
 
